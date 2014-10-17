@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lek:home|Door43 (lek)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lek|d43-lek repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lek/archive/master.zip|d43-lek.zip]]
+
+**Recent Changes**
+{{changes>ns = lek}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lek|Ethnologue data]]
+
